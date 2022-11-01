@@ -1,0 +1,28 @@
+{
+  "cats": [
+    {
+      "name": "Fluffels",
+      "color": "white",
+      "date": "15.10.2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices sagittis orci a scelerisque purus semper eget duis at. Vitae congue eu consequat ac felis."
+    },
+    {
+      "name": "Stan",
+      "color": "black",
+      "date": "16.10.2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices sagittis orci a scelerisque purus semper eget duis at. Vitae congue eu consequat ac felis."
+    },
+    {
+      "name": "Mittens",
+      "color": "grey",
+      "date": "17.10.2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices sagittis orci a scelerisque purus semper eget duis at. Vitae congue eu consequat ac felis."
+    },
+    {
+      "name": "Matilda",
+      "color": "orange",
+      "date": "18.10.2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices sagittis orci a scelerisque purus semper eget duis at. Vitae congue eu consequat ac felis."
+    }
+  ]
+}
