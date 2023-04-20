@@ -1,6 +1,6 @@
-Recreate the following 
+Recreate the following
 
-![Challenge Outcome](/challange-assets/challenge-outcome.png) 
+![Challenge Outcome](/challange-assets/challenge-outcome.png)
 
 ---
 
@@ -13,7 +13,7 @@ Backend:
 * To see the contents of the mocked database navigate to `/backend` and open the `database.json` file.
 
 
-Frontend: 
+Frontend:
 * Inside the /frontend directory is an angular project
 * To run it, run the following commands: `npm ci` and `npm start`.
 ---
@@ -29,4 +29,11 @@ Frontend:
 ---
 **Rules:**
 * You can search for solutions online. (Angular documentation, StackOverflow, etc)
-* You have to explain your thought process while implementing the solutions or searching for information.
+* Implement the solution as you would implement a feature in the real project.
+
+**Optional:**
+* Use rxjs
+* Use ngrx
+
+**During the interview:**
+* You have to explain your thought process.
