@@ -19,12 +19,20 @@ Frontend:
 ---
 
 **Challenges:**
+
+Backend (Optional, only if you know NodeJS, otherwise use the provided mock server in the backend folder)
+* Create a REST NodeJs typescript application to be able to get, add, delete, update cat appointments, using the database.json as a database.
+  * Use TypeScript
+  * Use Express
+  * Create GET, POST, PUT, DELETE routes
+  * Make it developer friendly, compiling the TypeScript in JavaScript when detecting changes on save.
+
+Frontend
 * Create a service and the functionality necessary to retrieve the existing appointments and save a new appointment.
 * Create the necessary components to:
   * Display the data of an appointment
   * Display the list of appointments
   * Take the user input and create a new appointment.
-
 
 ---
 **Rules:**
