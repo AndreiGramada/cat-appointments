@@ -1,31 +1,31 @@
 {
-  "cats": [
+  "appointments": [
     {
       "id": "25752e68-45a3-4b3c-bb7f-ebc5e507ec35",
-      "name": "Fluffels",
-      "color": "white",
-      "date": "15.10.2021",
+      "catName": "Fluffels",
+      "catColor": "brown",
+      "date": "2021-10-15",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices sagittis orci a scelerisque purus semper eget duis at. Vitae congue eu consequat ac felis."
     },
     {
       "id": "7d8c0e23-9fa9-439f-b29b-8c1d1c7e1e26",
-      "name": "Stan",
-      "color": "black",
-      "date": "16.10.2021",
+      "catName": "Stan",
+      "catColor": "black",
+      "date": "2021-10-16",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices sagittis orci a scelerisque purus semper eget duis at. Vitae congue eu consequat ac felis."
     },
     {
       "id": "1a7e874a-cb14-4d56-9f0a-878b1d1461d0",
-      "name": "Mittens",
-      "color": "grey",
-      "date": "17.10.2021",
+      "catName": "Mittens",
+      "catColor": "grey",
+      "date": "2021-10-17",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices sagittis orci a scelerisque purus semper eget duis at. Vitae congue eu consequat ac felis."
     },
     {
       "id": "7d95e2cc-3567-4f5e-96a6-3c8e9e9a3a92",
-      "name": "Matilda",
-      "color": "orange",
-      "date": "18.10.2021",
+      "catName": "Matilda",
+      "catColor": "orange",
+      "date": "2021-10-18",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices sagittis orci a scelerisque purus semper eget duis at. Vitae congue eu consequat ac felis."
     }
   ]

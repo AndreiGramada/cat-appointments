@@ -9,7 +9,7 @@ Recreate the following
 Backend:
 * Inside the /backend directory is a mock server that returns a list of appointments.
 * To run the server, run the following commands: ```npm ci``` and `npm start`
-* It will expose the following endpoint: http://localhost:3000/cats which will return an array of cat objects
+* It will expose the following endpoint: http://localhost:3000/appointments which will return an array of cat appointment objects
 * To see the contents of the mocked database navigate to `/backend` and open the `database.json` file.
 
 
