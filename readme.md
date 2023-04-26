@@ -9,7 +9,7 @@ Recreate the following
 Backend:
 
 * Create a REST service to be able to get, add, update, and delete cat appointments.
-  * You can chose to create it in **Java** OR **NodeJS**.
+  * You can choose to create it in **Java** OR **NodeJS**.
   * You can use the backend/database.json as a database OR create your own in SQL or MongoDB.
 
   * If you chose to create it using **Java**, you must:
@@ -39,8 +39,8 @@ Frontend:
 * Implement the solution as you would implement a feature in a real project.
 
 **How to deliver the solution:**
-* Create a github repo and send the link or archive the solution. (If you chose to send a zip file, delete the node_modules)
-* Inclued both the frontend and backend solution in the same repo / archive.
+* Create a GitHub repo and send the link or archive the solution. (If you chose to send a zip file, delete the node_modules)
+* Include both the frontend and backend solution in the same repo/archive.
 * Add instructions on how to run the application, if needed.
 
 **During the interview:**
